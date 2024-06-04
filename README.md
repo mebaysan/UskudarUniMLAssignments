@@ -1,3 +1,6 @@
 # Repo Hakkında
 
-Uygulama kodlarına [project.ipynb](./project.ipynb) dosyasından erişebilirsiniz.
+Vize Odevi: [midterm.ipynb](./midterm.ipynb)
+
+
+Final Odevi: [final.ipynb](./final.ipynb)
